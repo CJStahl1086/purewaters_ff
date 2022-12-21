@@ -7,6 +7,6 @@ Purewaters_ff is a life-long passion project dedicated to tracking and recording
 
 2) Databases- Once the data has been retrieval is recorded, it will be automatically update to an SQLite database and extracted for further analysis. 
 
-3) Leveraging spatial data with Esri products- These two APIs include on spatial based data, making it possible to utilize ArcGIS for visualization purposes.  As I continue to learn ArcGIS, recording conditions and waterways fished with ArcGIS will be critical to evaluating results, experiences, and targeting remote watersheds.
+3) Leveraging spatial data with Esri products- These two APIs include spatially based data, making it possible to utilize ArcGIS for visualization purposes.  As I continue to learn ArcGIS, recording conditions and waterways fished with ArcGIS will be critical to evaluating results, experiences, and targeting remote watersheds.
 
 4) Communication of results-Using BlueHost, a wordpress based host, I will be (eventually) providing documentation such as maps, pictures, data, and an analysis of some of my adventures. 
