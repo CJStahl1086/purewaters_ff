@@ -1,6 +1,6 @@
 # purewaters_ff
 
-Purewaters_ff is a life-long passion project dedicated to tracking and recording my fly fishing adventures.  As my adventures and analytical capabilities continue to grow, it has utlimately reached a point that it would be a disservice to not document these pursuits.  The following is an outline of my strategies to take my adventures to the next level, as I document my attempts to target some of the wildest, remote, and rugged watersheds in the US (and hopefully the world) for some of the rarest trout species.  
+PurewatersFF is a life-long passion project dedicated to tracking and recording my fly fishing adventures.  As my adventures and analytical capabilities continue to grow, it has utlimately reached a point that it would be a disservice to not document these pursuits.  The following is an outline of my strategies to take my adventures to the next level, as I document my attempts to target some of the wildest, remote, and rugged watersheds in the US (and hopefully the world) for some of the rarest trout species.  
 
 
 1) Gathering the relevant data- OpenWeather API and the National Water Information System will be used to collect and record some of the river and weather conditions in which I fish. 
